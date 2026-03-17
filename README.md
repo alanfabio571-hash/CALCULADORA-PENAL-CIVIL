@@ -1,3 +1,3 @@
 # Calculadora_Penal_ABCD
-Desenvolvida por CIVIL "RN"
-Editada e Publicada por CIVIL "CIVIL"
+Desenvolvida por Luis Felipe "Cavalcanti"
+Editada e Publicada por Caribo Galli "Saghatz"
